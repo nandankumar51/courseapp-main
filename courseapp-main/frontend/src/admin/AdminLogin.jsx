@@ -73,7 +73,7 @@ function AdminLogin() {
             Welcome to <span className="text-orange-500">CourseHaven</span>
           </h2>
           <p className="text-center text-gray-400 mb-6">
-            Log in to access admin dashboard!
+            Log in to access Admin dashboard!
           </p>
 
           <form onSubmit={handleSubmit}>
